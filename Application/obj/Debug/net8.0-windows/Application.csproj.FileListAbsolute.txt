@@ -1,0 +1,8 @@
+C:\Users\SYARIF\source\repos\Application\Application\obj\Debug\net8.0-windows\Application.Startup.resources
+C:\Users\SYARIF\source\repos\Application\Application\obj\Debug\net8.0-windows\Application.csproj.GenerateResource.cache
+C:\Users\SYARIF\source\repos\Application\Application\obj\Debug\net8.0-windows\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYARIF\source\repos\Application\Application\obj\Debug\net8.0-windows\Application.AssemblyInfoInputs.cache
+C:\Users\SYARIF\source\repos\Application\Application\obj\Debug\net8.0-windows\Application.AssemblyInfo.cs
+C:\Users\SYARIF\source\repos\Application\Application\obj\Debug\net8.0-windows\Application.csproj.CoreCompileInputs.cache
+C:\Users\SYARIF\source\repos\Application\Application\obj\Debug\net8.0-windows\Application.StartMenu.resources
+C:\Users\SYARIF\source\repos\Application\Application\obj\Debug\net8.0-windows\Application.Form1.resources
